@@ -9,4 +9,4 @@ a senha é "senha"
 O projeto é parcial, para demonstrar somente capacidades tecnicas para o projeto integrador . Sinta-se livre para copiar (desde que referencie o repositório com um comentário)
 
 Para obter a API necessária para utilizar com esse front, acesse:
-https://github.com/lrNas/API-dhlocar
+https://github.com/ArthurPenha/API-Locar
